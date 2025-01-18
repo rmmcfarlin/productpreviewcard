@@ -66,6 +66,7 @@ h1 + p {
 .sale {
     font-family: "Fraunces";
     font-size: 2rem;
+    font-weight: bold;
     line-height: 2rem;
     color: var(--green);
     margin-right: 19px;
